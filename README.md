@@ -14,7 +14,7 @@ The purpose of this application is to transform files into various file formats.
 
 - Enable Dark/Light Mode: Customize the app's appearance with the option to switch between dark and light themes.
 
-- Drag and Drop Files: Easily add files using 'Choose Folder Path' button and drop files using 'Drop' button.
+- Add and Drop Files: Easily add files using 'Choose Folder Path' button and drop files using 'Drop' button.
 
 - PDF to JPG Conversion: Effortlessly transform PDF files into high-quality JPG images.
 
